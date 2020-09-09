@@ -1,0 +1,31 @@
+.title{
+    margin-bottom: 10px;
+    border: 2px solid black;
+    width: 254px;
+    font-size:40px;
+    text-align: center;
+    padding: 5px;
+    color:rgba(233, 67, 1, 0.966);
+    background-color:rgba(98, 0, 255, 0.349);
+}
+table{
+    background-color:dodgerblue;
+
+}
+input[type="button"]{
+    width:60px;
+    height:60px;
+    font-size: 20px;
+    color:rgba(233, 67, 1, 0.966);
+    border-radius: 50%;
+    border: 2px solid greenyellow;
+    box-shadow: inset 1px 1px 1px 9px #2196f3, inset -3px 3px 0px 0px #2196f3;
+}
+input[type="text"]{
+    width: 170px;
+    height: 40px;
+    font-size: 20px;
+    padding: 1px;
+    margin: 7px;
+    border: 1px solid blue;
+}
